@@ -1,5 +1,5 @@
 # Data-vizualization Projects
-## Following are my projects in Looker Studio, Tableau, Python, Excel: <br />
+## Following are my projects in Looker Studio, Tableau, Power BI, Python, Excel: <br />
 
 
 - [x] **Looker Studio** - 
