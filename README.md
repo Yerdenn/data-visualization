@@ -4,6 +4,6 @@
 
 - [x] **Looker Studio** - 
   - Super store sales Data Analysis Project<br />
-*See on Looker Studio:* **[Report](https://lookerstudio.google.com/u/0/reporting/6e100ac9-3f04-4454-89d4-ea43458ffca2/page/QOoZD/edit)
+*See on Looker Studio:* **(https://lookerstudio.google.com/s/hAeaBv3oqP4)
 
 ![Sales report](Yerden_sales_report.png)
